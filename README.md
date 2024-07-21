@@ -7,7 +7,7 @@
 
   This website is static and simple project , <br />developed using HTML and CSS.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://avantika-rawat.github.io/CSS-Spotify-project/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
